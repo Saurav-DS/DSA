@@ -4,6 +4,7 @@
 1. Insertion Sort Algorithm
 2. Selection Sort Algorithm
 3. Merge Sort Algorithm
+4. Quick Sort Algorithm
 
 ## Sorting Alogrithms
 1. Linear Search Algorithm
