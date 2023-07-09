@@ -29,18 +29,18 @@ public class Stack {
 	}
 }
 /*
- * Stack [FIFO]
+ * Stack [FILO]
  * 
  * All the operations performed on the Stack are in constant time O(1)
  * 
  * The @return of all the methods are void.
  * 
- * push() 			 : @param int val to be added at the head of Stack. 
- *                   : Adds the element at the head of Stack.
- * pop() 		 	 : Removes the element from the head of Stack.
- * peek() 			 : Displays the element present at the head of Stack.
- * getStackSize() 	 : Displays the max size of Stack.
- * getCurrentSize()  : Displays the current size of Stack.
+ * push()		: @param int val to be added at the head of Stack. 
+ * 			: Adds the element at the head of Stack.
+ * pop()		: Removes the element from the head of Stack.
+ * peek()		: Displays the element present at the head of Stack.
+ * getStackSize() 	: Displays the max size of Stack.
+ * getCurrentSize()	: Displays the current size of Stack.
  * 
  */
 class List{
