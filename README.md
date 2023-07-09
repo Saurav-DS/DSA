@@ -1,10 +1,11 @@
 # Data Structures & Algorithms
 
 ## Sorting Algorithms
-1. Insertion Sort Algorithm
-2. Selection Sort Algorithm
-3. Merge Sort Algorithm
-4. Quick Sort Algorithm
+1. Bubble Sort Algorithm
+2. Insertion Sort Algorithm
+3. Selection Sort Algorithm
+4. Merge Sort Algorithm
+5. Quick Sort Algorithm
 
 ## Searching Algorithms
 1. Linear Search Algorithm
