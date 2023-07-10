@@ -12,6 +12,8 @@
 2. Binary Search Algorithm
 
 ## Data Structures
-1. Singly Linked List
-2. Doubly Linked List
-3. Stack
+1. Singly Linked List [FILO]
+2. Doubly Linked List (Double-Ended Linked List)
+3. Stack [FILO]
+4. Queue [FIFO]
+5. Deque (Double-Ended Queue)
