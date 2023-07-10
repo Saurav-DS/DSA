@@ -13,7 +13,8 @@
 
 ## Data Structures
 1. Singly Linked List [FILO]
-2. Doubly Linked List (Double-Ended Linked List)
-3. Stack [FILO]
-4. Queue [FIFO]
-5. Deque (Double-Ended Queue)
+2. Singly Linked List Generic Implementation [FILO]
+3. Doubly Linked List (Double-Ended Linked List)
+4. Stack [FILO]
+5. Queue [FIFO]
+6. Deque (Double-Ended Queue)
