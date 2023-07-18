@@ -18,3 +18,4 @@
 4. Stack [FILO]
 5. Queue [FIFO]
 6. Deque (Double-Ended Queue)
+7. Binary Search Tree
