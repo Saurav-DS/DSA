@@ -33,14 +33,14 @@ public class PriorityQueue {
 
 }
 /*
- * Heap based Priority Queue Class
+ * Heap-based Priority Queue Class
  * 
- * size()						: returns the size of priority Queue.
- * isEmpty()	 				: returns boolean true/false. 
- * insert(K key, V value)		: Adds the element to the priority queue in the key order (min-heap order of key) and returns the Entry<K, V> object. 
- * min()		 				: returns the min Entry<K, V> from the priority queue.
- * removeMin()					: removes the min Entry<K, V> from the priority queue.
- * display()					: displays all the elements of priority queue in level-order.
+ * size()		 : returns the size of the priority Queue.
+ * isEmpty()		 : returns boolean true/false. 
+ * insert(K key, V value): Adds the element to the priority queue in the key order (min-heap order of key) and returns the Entry<K, V> object. 
+ * min()		 : returns the min Entry<K, V> from the priority queue.
+ * removeMin()		 : removes the min Entry<K, V> from the priority queue.
+ * display()		 : displays all the elements of the priority queue in level order.
  * 
  */
 
