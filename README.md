@@ -21,3 +21,4 @@
 6. Deque (Double-Ended Queue)
 7. Binary Search Tree
 8. Min Heap
+9. Priority Queue
