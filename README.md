@@ -7,6 +7,8 @@
 4. Merge Sort Algorithm
 5. Quick Sort Algorithm
 6. Heap Sort Algorithm
+7. Counting Sort
+8. Radix Sort
 
 ## Searching Algorithms
 1. Linear Search Algorithm
