@@ -24,3 +24,4 @@
 7. Binary Search Tree
 8. Min Heap
 9. Priority Queue
+10. Hash Map
