@@ -6,7 +6,7 @@ This repository contains data structures, algorithms, and LeetCode problems impl
 
 - **sorting/** — classic sorting algorithms (bubble, merge, quick, etc.)
 - **searching/** — linear, binary search
-- **linkedlist/**, **tree/**, **heap/**, **stackqueue/**, **hashmap/** — core data structures
+- **linkedlist/**, **tree/**, **heap/**, **stack/**, **queue/**, **hashmap/** — core data structures
 - **leetcode/** — solved problems from LeetCode / practice
 
 ## How to Use
