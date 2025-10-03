@@ -1,27 +1,20 @@
-# Data Structures & Algorithms
+# DSA in Java (Practice Repository)
 
-## Sorting Algorithms
-1. Bubble Sort Algorithm
-2. Insertion Sort Algorithm
-3. Selection Sort Algorithm
-4. Merge Sort Algorithm
-5. Quick Sort Algorithm
-6. Heap Sort Algorithm
-7. Counting Sort
-8. Radix Sort
+This repository contains data structures, algorithms, and LeetCode problems implemented in Java.
 
-## Searching Algorithms
-1. Linear Search Algorithm
-2. Binary Search Algorithm
+## Structure Overview
 
-## Data Structures
-1. Singly Linked List [FILO]
-2. Singly Linked List Generic Implementation [FILO]
-3. Doubly Linked List (Double-Ended Linked List)
-4. Stack [FILO]
-5. Queue [FIFO]
-6. Deque (Double-Ended Queue)
-7. Binary Search Tree
-8. Min Heap
-9. Priority Queue
-10. Hash Map
+- **sorting/** — classic sorting algorithms (bubble, merge, quick, etc.)
+- **searching/** — linear, binary search
+- **linkedlist/**, **tree/**, **heap/**, **stackqueue/**, **hashmap/** — core data structures
+- **leetcode/** — solved problems from LeetCode / practice
+
+## How to Use
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/Saurav-DS/DSA.git
+   
+2. Navigate to src/main/java/com/saurav/dsa/
+
+3. Run individual classes via your IDE or javac / java
+
