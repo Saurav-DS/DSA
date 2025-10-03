@@ -1,3 +1,5 @@
+package src.main.java.com.saurav.dsa.searching;
+
 import java.util.Scanner;
 
 public class BinarySearch {

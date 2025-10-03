@@ -1,3 +1,5 @@
+package src.main.java.com.saurav.dsa.sorting;
+
 import java.util.Arrays;
 
 public class CountingSort {
