@@ -1,6 +1,6 @@
 # DSA in Java (Practice Repository)
 
-This repository contains data structures, algorithms, and LeetCode problems implemented in Java.
+This repository contains data structures, algorithms, and LeetCode problems implemented in Java. LeetCode problem explanations were created with the help of ChatGPT to enhance clarity and understanding.
 
 ## Structure Overview
 
